@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 - TOPIC 1 2](/pdf/topic1_2_khosifasintari.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
